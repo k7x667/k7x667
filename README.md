@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python & C++**
 
-- 💬 Ask me about **PhP & React TS**
+- 💬 Ask me about **PhP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
