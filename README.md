@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k7x667" alt="k7x667" /></a> </p>
 
-- 🌱 I’m currently learning **python & C++**
-
-- 💬 Ask me about **PhP**
+- 🌱 I’m currently learning **Typescript & PhP ** from 6 Month in graduation
+- and **python scripting & C++ Game Developpement** for fun bc I love burned my brain (~2 Month)
+- 💬 Ask me about **PhP** (+2Y XP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
