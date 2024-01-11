@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Théo a.k.a K7</h1>
+<h1 align="center">Hi, I'm Théo</h1>
 <h3 align="center">French Developper actually in graduation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k7x667&label=Profile%20views&color=0e75b6&style=flat" alt="k7x667" /> </p>
