@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k7x667&label=Profile%20views&color=0e75b6&style=flat" alt="k7x667" /> </p>
 
 <div align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=k7x667&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=k7x667&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=k7x667&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k7x667&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 - 🌱 I’m currently learning **Typescript** from 6 Month in graduation and **python scripting & C** for fun bc I love burned my brain (~2 Month)
 - 💬 Ask me about **PhP** (+2Y XP)
